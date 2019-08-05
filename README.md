@@ -1,2 +1,2 @@
 # springMybatisLean
-springMybatis整合练习
+springMybatis整合整理
